@@ -3,7 +3,7 @@ const request = require('request');
 let Image_ = require('../models/images.model');
 
 const NAVER_CLIENT_ID = 'ZDvXFOlJSjcgawntk5rS'
-const NAVER_CLIENT_SECRET = 'PJ7BEZqOzb'
+const NAVER_CLIENT_SECRET = 'deleted for security'
 
 
 router.route('/').get((req, res) => {
