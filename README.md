@@ -1,3 +1,5 @@
+# Now the Naver API Password was deleted. To Run this project, it is needed
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
