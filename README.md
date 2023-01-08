@@ -18,5 +18,5 @@ $ nodemon server
 # 구현 캡쳐
 
 <img src=./demo.png>
-<br>
+<r>
 <img src=./demo2.png>
