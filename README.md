@@ -6,4 +6,6 @@
 
 현재 코드에서 API connection 정보를 지워둔 상태입니다.
 
-<img src=./demo.jpg>
+<img src=./demo.png>
+<br>
+<img src=./demo2.png>
