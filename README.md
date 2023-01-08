@@ -16,7 +16,10 @@ $ nodemon server
 ```
 
 # 구현 캡쳐
-
+<div>
 <img src=./demo.png>
-<r>
+</div>
+<hr>
+<div>
 <img src=./demo2.png>
+</div>
