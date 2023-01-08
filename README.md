@@ -1,3 +1,7 @@
-# Now the Naver API Password was deleted. To Run this project, it is needed~~
+# Image getter
 
+서강대학교 인터넷 프로그래밍 수업의 텀 프로젝트로 만든 간단한 Node.js&React&MongoDB 프로젝트입니다.
+네이버 API를 활용해 이미지를 최신순으로 검색할 수 있고 특정 사진을 자신의 보관함에 담아둘 수 있도록 한 웹페이지입니다.
+현재 코드에서 API connection 정보를 지워둔 상태입니다.
 
+<img src=./demo.jpg>
