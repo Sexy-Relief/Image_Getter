@@ -15,6 +15,9 @@ backend directory에서
 $ nodemon server
 ```
 
+# 구조도
+<img src='./image01.png'>
+
 # 구현 캡쳐
 <div>
 <img src=./demo.png>
